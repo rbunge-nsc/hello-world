@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hello, from group 3</title>
+    <style>
+        body {
+            background-color: plum;
+        }
+        #read {
+            font-size:20px;
+            font-family: 'Courier New', Courier, monospace;
+            margin: 0;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+        #prompt {
+            font-size:20px;
+        }
+    </style>
+</head>
+<body>
+    <div id="read">
+    <h1>Hello, World?</h1>
+    <h1 id="prompt">(Respond, please.)</h1>
+    <h1 id="rude"  onmouseover="mouseOver1()" onmouseout="mouseOut1()" onclick="sadface()">[ignore]</h1>
+    <h1 id="nice"  onmouseover="mouseOver2()" onmouseout="mouseOut2()" onclick="happyface()">"Hello!"</h1>
+    </div>
+    <script>
+        ;
+        function mouseOver1() {
+           document.getElementById("rude").style.color = "red";
+        }
+        function mouseOut1() {
+            document.getElementById("rude").style.color = "black";
+        }
+        function mouseOver2() {
+           document.getElementById("nice").style.color = "green";
+        }
+        function mouseOut2() {
+            document.getElementById("nice").style.color = "black";
+        }
+        function sadface() {
+            document.getElementById("read").innerHTML = ("<h1>:(</h1>")
+        }
+        function happyface() {
+            document.getElementById("read").innerHTML = ("<h1>:)</h1>")
+        }
+
+    </script>
+</body>
+</html>
