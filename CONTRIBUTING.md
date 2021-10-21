@@ -15,7 +15,7 @@ This is going to be a web application. The directory structure will work like a 
 
 You can test the latest version of Hello, World! at this URL:
 
-https://rbunge-nsc.github.io/hello-world/
+https://carlianderson.github.io/hello-world/
 
 Our current testing procedure is to click on each link and check for broken links and missing pages. 
 
@@ -23,7 +23,7 @@ Our current testing procedure is to click on each link and check for broken link
 
 Report bugs to your group's leader. You can also report bugs here:
 
-https://canvas.northseattle.edu/courses/2099198/discussion_topics/13755036
+https://discord.com/channels/895522740583432252/895522742290505792
 
 ## Code of Conduct
 
@@ -72,4 +72,8 @@ the correct respository! **NOT** the top level repository!
 * Be sure to keep your group's content in its own folder!
 * Also be sure to fix any broken links in your group's folder!
 * Any stray files or directories left at the top level will be deleted.
+
+### Pull Request Process
+* Update the README.md with details of major changes made (for example, new files added or dependencies)
+* You may merge the Pull Request in once you have the sign-off of one other group member
 
