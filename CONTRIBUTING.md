@@ -5,7 +5,8 @@
 1. Welcome Message.
 
 
-2. Important links, github pages, the discord etc.
+#Important links:
+Project Pages: https://lordforrester.github.io/hello-world/
 
 
 3. Rules for testing
