@@ -5,7 +5,7 @@ Welcome to Hello, World! This is an open source project for students in IT 115. 
 ## Environment Details
 
 Part of the class is to explore different development enviroments. This repository will be for code contributions from all class members. The class is divided into groups.
-There is a directory for group. Each student should only contribute code to the directory for his/her group. The GitHub security model allows each contributor access to the entire repository, but please be responsibe and put your code in your assigned directory!
+There is a directory for group. Each student should only contribute code to the directory for his/her group. The GitHub security model allows each contributor access to the entire repository, but please be responsible and put your code in your assigned directory!
 
 This is going to be a web application. The directory structure will work like a tree.
 
@@ -16,6 +16,7 @@ You can test the latest version of Hello, World! at this URL:
 https://carlianderson.github.io/hello-world/
 
 Our current testing procedure is to click on each link and check for broken links and missing pages. 
+Cheking for JavaScript errors in console log.
 
 ## Bug Reports
 
