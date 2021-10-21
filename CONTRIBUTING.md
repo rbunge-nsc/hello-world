@@ -16,13 +16,13 @@
 
 7. Thank you message
 
-8. List of contributors(us).
+[8. List of contributors(us).](#contributors)
 
 # <a name="importantLinks">Important Links:</a><br>
 Project Pages: https://lordforrester.github.io/hello-world/
 
-# <a name="reportingBugs">Reporting bugs:</a> <br>
-Bugs should be reported under the issues tab on the main repository.
+# <a name="reportingBugs">Reporting Bugs:</a> <br>
+Bugs should be reported under the issues tab on the main repository and the contributos should be notified an issue has been reported via the group discord.
 
-# <a name="reportingBugs">Contributors:</a> <br>
+# <a name="contributors">Contributors:</a> <br>
 Jesse, Eamon, James, Sarah, Nickolas
