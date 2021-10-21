@@ -1,11 +1,11 @@
 # Welcome!
 
-#OUTLINE
+# OUTLINE
 
 1. Welcome Message.
 
 
-#Important links:<br>
+# Important links:<br>
 Project Pages: https://lordforrester.github.io/hello-world/
 
 
