@@ -13,7 +13,7 @@ This is going to be a web application. The directory structure will work like a 
 
 ## Testing
 
-You can test the latest version of The Game at this URL:
+You can test the latest version of Hello, World! at this URL:
 
 10-20-21: URL pending
 
