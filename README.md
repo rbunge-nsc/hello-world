@@ -15,3 +15,9 @@ https://canvas.northseattle.edu/courses/2099198/discussion_topics/13755036
 
 Group 1 is the primary editor for this class-level repository for hello, world. If you would like to contribute please see [contributing.md](https://github.com/carlianderson/hello-world/blob/main/CONTRIBUTING.md
 )
+### This group is compuse of:
+- [Carli](https://github.com/carlianderson
+)
+- [Dee Dee](https://github.com/ddnsc/ddnsc
+)
+- [Abe](https://github.com/AbeFernandez)
