@@ -1,13 +1,11 @@
 # Welcome!
 
-Welcome to Hello, World! This is an open source project for students in IT 115. The goal of the project is to make a bunch of web application code so we can all practice
-managing this code on GitHub. 
+Welcome to Hello, World! This is an open source project for students in IT 115. The goal of the project is to make a bunch of web application code so we can all practice managing this code on GitHub. 
 
 ## Environment Details
 
 Part of the class is to explore different development enviroments. This repository will be for code contributions from all class members. The class is divided into groups.
-There is a directory for group. Each student should only contribute code to the directory for his/her group. The GitHub security model allows each contributor access
-to the entire repository, but please be responsibe and put your code in your assigned directory!
+There is a directory for group. Each student should only contribute code to the directory for his/her group. The GitHub security model allows each contributor access to the entire repository, but please be responsibe and put your code in your assigned directory!
 
 This is going to be a web application. The directory structure will work like a tree.
 
@@ -27,7 +25,16 @@ https://discord.com/channels/895522740583432252/895522742290505792
 
 ## Code of Conduct
 
-Please respect Hello, World's purpose and design structure. The design structure is described below. 
+### Examples of behavior that contributes to a positive environment for our community include:
+
+  * Demonstrating empathy and kindness toward other people
+  * Being respectful of differing opinions, viewpoints, and experiences
+  * Giving and gracefully accepting constructive feedback
+  * Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
+  * Focusing on what is best not just for us as individuals, but for the overall community
+
+### Please respect Hello, World's purpose and design structure. The design structure is described below.
+
 Also, the following pages are **NOT** to be added by any contributors:
 
 * index.html
