@@ -9,7 +9,7 @@ That being said, if you can add some fun features to the Game, please do!
 
 - To get started with this project, you have to sign up for IT 115. Then you will be assigned to a group. Your group will contribute code to this class-level repository. 
 
-Users can get help with this project by posting on this technical discussion board:
+- Users can get help with this project by posting on this technical discussion board:
 
 https://canvas.northseattle.edu/courses/2099198/discussion_topics/13755036
 
