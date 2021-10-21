@@ -1,8 +1,8 @@
-# Welcome!
+# <a name="welcome">Welcome!</a>
 
 # OUTLINE
 
-1. Welcome Message
+[1. Welcome Message](#welcome)
 
 [2. Important links](#importantLinks)
 
