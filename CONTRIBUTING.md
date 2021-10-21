@@ -27,13 +27,10 @@ Also, the following pages are **NOT** to be added by any contributors:
 
 * index.html
 * error.html
-* README.md
-* CODE_OF_CONDUCT.md
-* LICENSE
-* CONTRIBUTING.md
-
-If you are updating these pages for a class assignment or a group project be sure to commit the pages to
-the correct respository! **NOT** the top level repository!
+* README.md (Updated Weekly)
+* CODE_OF_CONDUCT.md 
+* LICENSE (Created)
+* CONTRIBUTING.md (Created)
 
 ### At the top of the structure will be:
 
