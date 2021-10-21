@@ -15,7 +15,7 @@ This is going to be a web application. The directory structure will work like a 
 
 You can test the latest version of Hello, World! at this URL:
 
-10-20-21: URL pending
+https://rbunge-nsc.github.io/hello-world/
 
 Our current testing procedure is to click on each link and check for broken links and missing pages. 
 
