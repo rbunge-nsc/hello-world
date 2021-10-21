@@ -21,4 +21,4 @@
 
 
 7. List of contributors(us).
-Jesse, Eamon, James, Sarah, Nickolas
+<br>Jesse, Eamon, James, Sarah, Nickolas
