@@ -2,26 +2,27 @@
 
 # OUTLINE
 
-[1. Welcome Message.](#ImportantLinks)
+1. Welcome Message
 
-
-2. Important links
+[2. Important links](#importantLinks)
 
 3. Rules for testing
 
-4. Guide on submitting changes and bug reports
+4. Guide on submitting changes
 
-5. Style guide/ Code of Conduct.
+[5.  Bug reports](#reportingBugs)
 
-6. Thank you message
+6. Style guide/ Code of Conduct.
 
-7. List of contributors(us).
+7. Thank you message
 
-# <a name="ImportantLinks">Important Links:</a><br>
+8. List of contributors(us).
+
+# <a name="importantLinks">Important Links:</a><br>
 Project Pages: https://lordforrester.github.io/hello-world/
 
-# Reporting bugs: <br>
+# <a name="reportingBugs">Reporting bugs:</a> <br>
 Bugs should be reported under the issues tab on the main repository.
 
-# Contributors <br>
+# <a name="reportingBugs">Contributors:</a> <br>
 Jesse, Eamon, James, Sarah, Nickolas
