@@ -17,7 +17,7 @@
 
 7. List of contributors(us).
 
-<a name="ImportantLinks"># Important Links:</a><br>
+# <a name="ImportantLinks">Important Links:</a><br>
 Project Pages: https://lordforrester.github.io/hello-world/
 
 # Reporting bugs: <br>
