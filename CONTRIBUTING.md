@@ -22,5 +22,5 @@ Project Pages: https://lordforrester.github.io/hello-world/
 # Reporting bugs: <br>
 Bugs should be reported under the issues tab on the main repository.
 
-# Contributors
-<br>Jesse, Eamon, James, Sarah, Nickolas
+# Contributors <br>
+Jesse, Eamon, James, Sarah, Nickolas
