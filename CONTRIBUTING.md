@@ -2,7 +2,8 @@
 
 # OUTLINE
 
-1. Welcome Message.
+[1. Welcome Message.](#ImportantLinks)
+
 
 2. Important links
 
@@ -16,7 +17,7 @@
 
 7. List of contributors(us).
 
-# Important Links: <br>
+<a name="ImportantLinks"># Important Links:</a><br>
 Project Pages: https://lordforrester.github.io/hello-world/
 
 # Reporting bugs: <br>
