@@ -1,9 +1,8 @@
 # Welcome!
 
-Welcome to Hello, World! This is an open source project for students in IT 115. The goal of the project is to make a bunch of web application code so we can all practice
-managing this code on GitHub. 
+Welcome to Hello, World! Group 2
 
-## Environment Details
+## 
 
 Part of the class is to explore different development enviroments. This repository will be for code contributions from all class members. The class is divided into groups.
 There is a directory for group. Each student should only contribute code to the directory for his/her group. The GitHub security model allows each contributor access
@@ -13,15 +12,11 @@ This is going to be a web application. The directory structure will work like a 
 
 ## Testing
 
-You can test the latest version of The Game at this URL:
-
-10-20-21: URL pending
-
-Our current testing procedure is to click on each link and check for broken links and missing pages. 
+Check back for future updates
 
 ## Bug Reports
 
-Report bugs to your group's leader. You can also report bugs here:
+Check back for future updates
 
 https://canvas.northseattle.edu/courses/2099198/discussion_topics/13755036
 
