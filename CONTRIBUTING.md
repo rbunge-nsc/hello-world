@@ -5,7 +5,7 @@ Welcome to Hello, World! Group 2
 ## Weekly Checkin Contributions
 
 ### Week 4:
-- Linh: README.md file, CONTRIBUTING.md, GitHub Page, (In class)
+- Linh: README.md file, CONTRIBUTING.md (In class)
 - Chris: README.md file, CONTRIBUTING.md, GitHub Page, Forked Repository (In class)
 
 ## Testing
