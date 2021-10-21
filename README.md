@@ -1,8 +1,8 @@
 # hello-world
 
-Project repository for IT 115 Fall 2021
+Project repository for IT 115 Fall 2021 Group 3
 
-- Students in IT 115 are going to add content to this project. 
+- Students in Group 3 are going to add content to this project. 
 
 - Hello, World! itself does really have to do very much. It's mostly just an excuse to make several directories of practice code we can practice managing projects on GitHub.
 That being said, if you can add some fun features to the Game, please do!
@@ -13,5 +13,4 @@ That being said, if you can add some fun features to the Game, please do!
 
 https://canvas.northseattle.edu/courses/2099198/discussion_topics/13755036
 
-Robert Bunge is the primary editor for this class-level repository for the game. All class members are invited to collaborate. Different groups will also set up their own 
-independent repositories for forks of this project. 
+Github pages for this Project: https://lordforrester.github.io/hello-world/
