@@ -5,6 +5,7 @@ Project repository for IT 115 Fall 2021
 ## Current group 2 members:
  * Chris Navoczynski
  * Linh Chu
+ * Seblewongel Abera (Seble)
  
  ## Purpose
  To learn the general components and properties of Software Development and create a group collaborative project. 
