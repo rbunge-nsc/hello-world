@@ -7,6 +7,7 @@ Welcome to Hello, World! Group 2
 ### Week 4:
 - Linh: README.md file, CONTRIBUTING.md (In class)
 - Chris: README.md file, CONTRIBUTING.md, GitHub Page, Forked Repository (In class)
+- Malachi: README.md file edit
 
 ## Testing
 
