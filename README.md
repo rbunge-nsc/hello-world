@@ -6,6 +6,7 @@ Project repository for IT 115 Fall 2021
  * Chris Navoczynski
  * Linh Chu
  * Seblewongel Abera (Seble)
+ * Malachi Greiner
  
  ## Purpose
  To learn the general components and properties of Software Development and create a group collaborative project. 
