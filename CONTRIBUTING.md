@@ -1,4 +1,5 @@
-# <a name="welcome">Welcome!</a>
+# <a name="welcome">Welcome!</a> <br>
+Welcome to Hello World! What you will find here is an open source project for group three in IT115. The project's goal is to gain experience creating code for web applications in an online collaborative process.
 
 # OUTLINE
 
