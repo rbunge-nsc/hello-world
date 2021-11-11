@@ -1,6 +1,6 @@
 # hello-world
 
-Project repository for Group 1 IT 115 Fall 2021
+Project repository for Group 1 IT 115 Fall 2021 
 
 - Students in IT 115 are going to add content to this project. 
 
