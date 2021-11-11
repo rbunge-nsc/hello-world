@@ -3,46 +3,95 @@
     margin:0;
     font-family: Arial, Helvetica, sans-serif;
 }
-body {
-    background:#789FA3;
-    }
-h1 {
-    color:#4D5F64;
+body{
+    background-color: burlywood;
 }
-
-h2 {
-    color:#48757F;
+.wrapper{
+    margin: auto 10% auto 10%;
+    width: 80%;
+    height: 900px;
+    /* background-color: rgb(207, 143, 226); */
 }
-
-h3 {
-    color:#48757F;
+.navBar{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
 }
-
-h1, h2, h3 {
-    margin-bottom:10px;
+.navBar ul{
+    margin-top: 30px;
+    text-align: center;
 }
-
-img {
-    float:right;
-    width:300px;
-    padding:30px; 
-    margin: 0 0 20px 20px;
-    border:#4D5F64 10px solid;
+.navBar ul li{
+    float: left;
+    padding: 10px;
+    list-style-type: none;
 }
-
-ul, ol, dl {
-    margin: 0 0 10px 20px; /*top right bottom left */
+.navBar ul li a{
+    padding: 10px;
+    text-decoration-line: none;
+    color: black;
+    font-size: 1.5em;
+    font-weight: bold;
 }
-
-div#wrapper{
-    width:940px;
-    margin:0 auto 0 auto;
-    background:#D5DAB8;
-    padding:20px;
+.helloWorld{
+    width: 100%;
+    height: 100px;
+    padding-top: 20px;
+    
+}
+.helloWorld img{
+    width: 200px;
+    float: left;
+    padding-right: 20px;
+}
+.fortuneTeller{
+    margin: 0 auto 0 auto;
+    width: 600px;
+    
+}
+.fortuneTeller h1{
+    /* font-family: Fruktur, "Fruktur"; */
+}
+.fortuneTeller h1, p{
+    margin: 0 auto 0 auto;
+    text-align: center;
+}
+.button{
+    margin: 0 37.5% 0 37.5%;
+    text-align: center;
+    width: 25%;
+    height: 50px;
+    align-items: center;
+}
+.teller{
+    width: 600px;
+    height: 700px;
+    background-image: url("img/fortune.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 400px;
+    
+}
+#displayCareer{
+    width: 200px;
+    margin: 0 auto 0 auto;
+    text-align: center;
+    padding-top: 190px;
+    font-family: Fruktur, "Fruktur";
+    font-size: 1.2em;
 
 }
-
-p {
-    margin-bottom:20px;
-    color:black;
+.about{
+    margin: 0 auto 0 auto;
+    width: 80%;
+    height: fit-content;
+    margin-top: 30px;
+    padding: 30px;
+    background-color: rgba(48, 47, 47, 0.274);
+    border-radius: 10px;
+}
+.about p{
+    text-align: left;
+    line-height: 1.5em;
 }
