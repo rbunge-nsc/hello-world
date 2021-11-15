@@ -77,3 +77,8 @@ function newCareer() {
     var randomNumber = Math.floor(Math.random() * careers.length);
     document.getElementById('displayCareer').innerHTML = careers[randomNumber];
 }
+
+function getHint(){
+var txt
+if (confirm("The world is at your fingertimps! Basic internet searches are extremely helpful if you know what you're looking for!"));
+}
