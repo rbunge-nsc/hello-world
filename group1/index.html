@@ -2,18 +2,54 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<link rel="stylesheet" href="style.css">
+<link href="https://fonts.googleapis.com/css2?family=Fruktur&display=swap" rel="stylesheet">
 <title>Tech Career Fortune Teller</title>
-
+<script src="javascript.js"></script>
 </head>
-    <h1>Tech Career Fortune Teller</h1>
-    <p>&lt;Insert fortune teller's name here&gt;</p>
-    <div id="displayCareer">
-        <!--this is where the career is generated-->
-    </div>
-        <!--insert a fun image that is clickable to replace the button here-->
-    <button id="getCareer" class="button" onclick="newCareer()">New Career</button>
-
-    <script src="javascript.js"></script>
+    
+    
 <body>
+    <div class="wrapper">
+        <header>
+            <!-- <div class="helloWorld">
+                <img src="img/HelloWorldLogo.png" alt="logo">
+            </div> -->
+            
+            <!-- Z3JwMXtyZWNvZ25pemluZ19iYXNlNjRfaXNfdXNlZnVsfQ== -->
+
+            <!--maybe this link will help?
+
+            <https://datatracker.ietf.org/doc/html/rfc4648#section-4> -->
+            
+            <div class="navBar">
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="abe.html">Abe</a></li>
+                    <li><a href="carli.html">Carli</a></li>
+                    <li><a href="deedee.html">Dee Dee</a></li>
+                    <li><a href="game.html">Game</a></li>
+                </ul>
+            </div>
+        </header>
+        
+        <div class="fortuneTeller">
+            <h1>Tech Career Fortune Teller</h1>
+
+            <div class="teller">
+                <div id="displayCareer">
+                    <!--this is where the career is generated-->
+                </div>
+            </div>
+            
+            <button id="getCareer" class="button" onclick="newCareer()">New Career</button>
+
+        </div>
+        <div class="about" id="about">
+            <h1>About Us</h1><br>
+            <p>For our project, we wanted to showcase some of our team's skills including: html, css, javascript, and ethical hacking. We wanted our project to be interactive so we created a career generator for fun and hid capture the flag challenges throughout our site. We hope you enjoy!</p>
+        </div>
+
+    </div>
 </body>
 </html>

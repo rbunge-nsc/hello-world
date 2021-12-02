@@ -74,6 +74,21 @@ var careers = [
 
 // generates a random number
 function newCareer() {
-    var randomNumber = Math.floor(Math.random() * careers.length);
+    var randomNumber = Math.floor(Math.random() * careers.length - 1);
     document.getElementById('displayCareer').innerHTML = careers[randomNumber];
+}
+
+function getHint(){
+var txt
+if (confirm("The world is at your fingertips! Basic internet searches are extremely helpful if you know what you're looking for!"));
+}
+
+function getHint2(){
+var txt
+if (confirm("Try doing an interent search for the first portion of the comment text."));
+}
+
+function getHint3(){
+var txt
+if (confirm("Do you know the keyboard shortcut for select all?"));
 }
